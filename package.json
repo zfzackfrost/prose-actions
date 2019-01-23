@@ -1,0 +1,16 @@
+{
+  "name": "prose-actions",
+  "version": "0.0.1",
+  "description": "Turns a prose statement into a list of actions. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	"prose",
+	"parser",
+	"language"
+  ],
+  "author": "Zachary Frost",
+  "license": "MIT"
+}
